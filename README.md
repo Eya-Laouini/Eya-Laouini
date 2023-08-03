@@ -6,6 +6,7 @@
 ![GIF Image](https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966)
 
 
+
 - 👩‍💻 I’m currently studying Information Technology at the Higher Institute of Technological Studies of Nabeul, Tunisia
 
 - 🌱 I’m currently working as AI Intern at IVA **on intelligent virtual assistant using NLP 🧠**
