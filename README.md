@@ -7,7 +7,7 @@
 
 
 
-- 👩‍💻 I’m currently studying Information Technology at the Higher Institute of Technological Studies of Nabeul, Tunisia
+- 👩‍💻 I’m currently studying **Information Technology** at the Higher Institute of Technological Studies of Nabeul, Tunisia
 
 - 🌱 I'm currently working as an AI intern at IVA on **an intelligent virtual assistant using NLP** 🧠
 
