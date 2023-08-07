@@ -7,11 +7,9 @@
 
 
 
-- 👩‍💻 I’m currently studying **Information Technology** at the Higher Institute of Technological Studies of Nabeul, Tunisia
+- 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end & Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia. 
 
 - 🌱 I'm currently working as an AI intern at IVA on **an intelligent virtual assistant using NLP** 🧠
-
-- 💻 I’m currently junior Web Developer working **Front-end & Back-end projects**
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Eya-Laouini)
 
