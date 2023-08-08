@@ -7,7 +7,9 @@
 
 
 
-- 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end & Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia. 
+- 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end & Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia.
+  
+- 🤖 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
 
 - 🌱 I'm currently working as an AI intern at IVA on **an intelligent virtual assistant using NLP** 🧠
 
