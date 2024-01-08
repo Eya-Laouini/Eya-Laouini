@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
 <h3 align="center">an AI Enthusiast & Web and Mobile Developer from Tunisia 🇹🇳</h3>
 
-![GIF Image](https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966)
+![GIF Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jyotibalodhi%2Fprogrammer-or-not-345df8ab4dbc&psig=AOvVaw1yq9JV6ABmuWhVSaHGL2Fq&ust=1704811606032000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDK46WEzoMDFQAAAAAdAAAAABAD)
 
 
 
