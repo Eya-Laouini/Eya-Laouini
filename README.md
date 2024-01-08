@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://github.com/Eya-Laouini/Eya-Laouini/blob/main/programmer.gif" alt="Header Image">"
+    <img src="https://github.com/Eya-Laouini/Eya-Laouini/blob/main/programmer.gif" alt="Header Image">
   </a>
 </p>
 
