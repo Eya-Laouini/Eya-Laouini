@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
 <h3 align="center">an AI Enthusiast & Web Developer from Tunisia 🇹🇳</h3>
 
-![GIF Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fai-generated-woman-computer-pc-8023195%2F&psig=AOvVaw2w_PWwk6UjO-lSvcoErj2e&ust=1704811870078000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiLmLyFzoMDFQAAAAAdAAAAABAD)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-laouini&label=Profile%20views&color=0e75b6&style=flat" alt="eya-laouini" /> </p>
 
 
 - 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end and Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia.
