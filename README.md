@@ -1,7 +1,7 @@
 ![Banner Image](https://t3.ftcdn.net/jpg/02/06/09/86/360_F_206098620_L3S5vp0F2PLdNyynpWppKKS2WgbHPVSa.webp)
 
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
-<h3 align="center">an AI Enthusiast & Web and Mobile Developer from Tunisia 🇹🇳</h3>
+<h3 align="center">an AI Enthusiast & Web Developer from Tunisia 🇹🇳</h3>
 
 ![GIF Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fai-generated-woman-computer-pc-8023195%2F&psig=AOvVaw2w_PWwk6UjO-lSvcoErj2e&ust=1704811870078000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiLmLyFzoMDFQAAAAAdAAAAABAD)
 
