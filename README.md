@@ -3,6 +3,13 @@
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
 <h3 align="center">an AI Enthusiast & Web Developer from Tunisia 🇹🇳</h3>
 
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://github.com/Eya-Laouini/Eya-Laouini/blob/main/programmer.gif" alt="Header Image">"
+  </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-laouini&label=Profile%20views&color=0e75b6&style=flat" alt="eya-laouini" /> </p>
 
 
