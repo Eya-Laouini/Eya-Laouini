@@ -15,6 +15,8 @@
 
 - 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end and Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia.
   
+- 💻 I'm an **AI Intern** @ **L-mobile Tunisia**  
+  
 - 🤖 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
 
 - 🌱 I worked as an AI intern at IVA on **an intelligent virtual assistant using NLP** 🧠
@@ -43,4 +45,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eya-laouini&show_icons=true&locale=en" alt="eya-laouini" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eya-laouini&show_icons=true&locale=en&layout=compact" alt="eya-laouini" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eya-laouini&show_icons=true&locale=en" alt="eya-laouini" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eya-laouini&" alt="eya-laouini" /></p>
