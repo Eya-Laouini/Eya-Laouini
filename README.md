@@ -45,6 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eya-laouini&show_icons=true&locale=en" alt="eya-laouini" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eya-laouini&show_icons=true&locale=en&layout=compact" alt="eya-laouini" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eya-laouini&" alt="eya-laouini" /></p>
