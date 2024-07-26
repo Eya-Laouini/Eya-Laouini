@@ -13,21 +13,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-laouini&label=Profile%20views&color=0e75b6&style=flat" alt="eya-laouini" /> </p>
 
 
-- 👩‍💻 I’m currently studying **Information Technology** specializing in Information Systems Development, working on **Front-end and Back-end projects** at the Higher Institute of Technological Studies of Nabeul, Tunisia.
+- 👩‍💻 I'm an **AI Developer** 
   
-- 💻 I'm an **AI Intern** @ **L-mobile Tunisia**  
+- 💻 I'm **AI & Python Instructor @GoMyCode Tunisia** 
   
 - 🤖 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
 
-- 🌱 I worked as an AI intern at IVA on **an intelligent virtual assistant using NLP** 🧠
-
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Eya-Laouini)
 
-- 💬 Ask me about **AI: Machine Learning & Deep learning**
+- 💬 Ask me about **AI: Machine Learning & Deep Learning & GenAI**
 
 - 📫 Reach me via **eyai.laouini@gmail.com**
 
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1fctDKXX2YUPsM815zZ0ORrkFRtfiRDeO/view?usp=sharing)
+- 📄 Know more about me via [my resume](https://drive.google.com/file/d/118qhoy--5s3xcRp6jr2Vm4Ie0fWjHzmS/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my secret sauce for crushing challenges🎧🎶**
 
