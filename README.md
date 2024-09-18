@@ -15,7 +15,7 @@
 
 - 👩‍💻 I'm an **AI Developer** 
   
-- 💻 I'm former **AI & Python Instructor @GoMyCode Tunisia** 
+- 💻 I'm a former **AI & Python Instructor @GoMyCode Tunisia** 
   
 - 🤖 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
 
