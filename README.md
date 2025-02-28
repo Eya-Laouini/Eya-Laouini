@@ -25,7 +25,7 @@
 
 - 📫 Reach me via **eyai.laouini@gmail.com**
 
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/118qhoy--5s3xcRp6jr2Vm4Ie0fWjHzmS/view?usp=sharing)
+- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1kSNltRbjv86KJOHQXSd_HtD5Sb6sJ9dH/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my secret sauce for crushing challenges🎧🎶**
 
