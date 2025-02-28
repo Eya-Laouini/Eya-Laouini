@@ -15,9 +15,9 @@
 
 - 👩‍💻 I'm an **AI Expert**
 
-- 💻 I'm **Generative AI Technical Referent @GoMyCode Tunisia** 
+- 💻 I'm **Generative AI Technical Referent @GoMyCode** 
   
-- 💻 I'm **AI & Python Instructor @GoMyCode Tunisia** 
+- 💻 I'm **AI & Python Instructor @GoMyCode** 
   
 - 🤖 I'm an **AI Expert** working on **Gen AI & Traditional AI projects**
 
