@@ -13,15 +13,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-laouini&label=Profile%20views&color=0e75b6&style=flat" alt="eya-laouini" /> </p>
 
 
-- 👩‍💻 I'm an **AI Developer** 
+- 👩‍💻 I'm an **AI Expert**
+
+- 💻 I'm **Generative AI Technical Referent @GoMyCode Tunisia** 
   
-- 💻 I'm a former **AI & Python Instructor @GoMyCode Tunisia** 
+- 💻 I'm **AI & Python Instructor @GoMyCode Tunisia** 
   
-- 🤖 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
+- 🤖 I'm an **AI Expert** working on **Gen AI & Traditional AI projects**
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Eya-Laouini)
 
-- 💬 Ask me about **AI: Machine Learning & Deep Learning & GenAI**
+- 💬 Ask me about **GenAI & AI**
 
 - 📫 Reach me via **eyai.laouini@gmail.com**
 
