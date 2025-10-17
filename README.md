@@ -15,9 +15,11 @@
 
 - 👩‍💻 I'm an **AI Expert Specialist in generative AI**
 
-- Google Developer Group Sousse Organizer ❤️💛💚💙
+- Part of the Google For Developers Community ❤️💛💚💙 [My Profile](https://developers.google.com/profile/u/eyalaouini) 
 
-- Google Women Techmakers Ambassador 🩵
+- [Google Developer Group Sousse](https://gdg.community.dev/gdg-sousse/) Organizer ❤️💛💚💙 
+
+- [Google Women Techmakers](https://developers.google.com/womentechmakers) Ambassador 🩵
 
 - 📄 See my AI Content on [Medium](https://medium.com/@eyai)
 
