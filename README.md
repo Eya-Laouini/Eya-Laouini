@@ -21,6 +21,8 @@
 
 - [Google Women Techmakers](https://developers.google.com/womentechmakers) Ambassador 🩵
 
+- ☁️ See my [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/7b619264-145a-4409-9be4-5af4a954e528)
+
 - 📄 See my AI Content on [Medium](https://medium.com/@eyai)
 
 - 📍See my Tech Contributions on [Linkedin](https://www.linkedin.com/in/eya-laouini/)
