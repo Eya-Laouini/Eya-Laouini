@@ -1,7 +1,7 @@
 ![Banner Image](https://t3.ftcdn.net/jpg/02/06/09/86/360_F_206098620_L3S5vp0F2PLdNyynpWppKKS2WgbHPVSa.webp)
 
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
-<h3 align="center">an AI Expert Specialist in generative AI from Tunisia 🇹🇳</h3>
+<h3 align="center">an AI Expert Specialist in Generative AI from Tunisia 🇹🇳</h3>
 
 <p align="center">
   <a href="https://rishavchanda.io">
@@ -14,6 +14,10 @@
 
 
 - 👩‍💻 I'm an **AI Expert Specialist in generative AI**
+
+- 📄 See my AI Content on [Medium](https://medium.com/@eyai)
+
+- 📍See my Tech Contributions on [Linkedin](https://www.linkedin.com/in/eya-laouini/)
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Eya-Laouini)
 
