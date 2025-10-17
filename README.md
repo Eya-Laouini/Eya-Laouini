@@ -1,7 +1,7 @@
 ![Banner Image](https://t3.ftcdn.net/jpg/02/06/09/86/360_F_206098620_L3S5vp0F2PLdNyynpWppKKS2WgbHPVSa.webp)
 
 <h1 align="center">Hi 👋, There, It's ✨EyAI✨</h1>
-<h3 align="center">an AI Expert from Tunisia 🇹🇳</h3>
+<h3 align="center">an AI Expert Specialist in generative AI from Tunisia 🇹🇳</h3>
 
 <p align="center">
   <a href="https://rishavchanda.io">
@@ -13,21 +13,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eya-laouini&label=Profile%20views&color=0e75b6&style=flat" alt="eya-laouini" /> </p>
 
 
-- 👩‍💻 I'm an **AI Expert**
-
-- 💻 I'm **Generative AI Technical Referent @GoMyCode** 
-  
-- 💻 I'm **AI & Python Instructor @GoMyCode** 
-  
-- 🤖 I'm an **AI Expert** working on **Gen AI & Traditional AI projects**
+- 👩‍💻 I'm an **AI Expert Specialist in generative AI**
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Eya-Laouini)
 
 - 💬 Ask me about **GenAI & AI**
 
 - 📫 Reach me via **eyai.laouini@gmail.com**
-
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1lK_nslUjAA9JomD-T7wTnpD0Bn88FMDv/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my secret sauce for crushing challenges🎧🎶**
 
